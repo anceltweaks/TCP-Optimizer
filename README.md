@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="https://i.imgur.com/OsO37Vf.png" width="750">
+    <img src="https://i.imgur.com/uMUFLa6.png" width="750">
   </p>
 
 # TCP Optimizer
