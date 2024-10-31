@@ -1,6 +1,6 @@
-
-  ![picture](https://imgur.com/a/fYgv3um)
-
+ <p align="center">
+    <img src="https://i.imgur.com/OsO37Vf.png" width="750">
+  </p>
 
 # TCP Optimizer
 
